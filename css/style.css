@@ -1,6 +1,13 @@
 body {
-  background: greenyellow;
+  background: #f9f7fe;
   color: black;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 60px;
 }
 
 h1 {
